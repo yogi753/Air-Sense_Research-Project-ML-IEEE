@@ -1,4 +1,4 @@
-# Air-Sense-Empowering-Air-Quality-Prediction
+# Air-Sense-Empowering-Air-Quality-Prediction-Using-ML-Models
 
 Air quality has always been one of the most important environmental concerns for the general public and society. Obviously, poor air quality has severe effects on people’s health. If we can predict air quality, we can adjust our behaviour on different levels ranging from individual behaviour to communities, nations and even globally. 
 
