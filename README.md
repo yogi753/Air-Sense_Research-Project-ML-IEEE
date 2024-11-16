@@ -4,7 +4,7 @@ Air quality has always been one of the most important environmental concerns for
 
 Predicting air quality is a challenging problem since air quality can differ significantly from one place to another – from quiet residential areas and parks to busy streets and industrial areas. We also need to consider atmospheric patterns such as rain, air pressure, temperature, etc., which affect the volume of each pollutant in the air. Many existing models for air quality prediction are constrained by unbalanced data or time-consuming manual annotation bias.  
 
-### *My research project on air quality prediction using machine learning algorithms has been published in IEEE Xplore (ICRTAC 2023).*
+### *My research project on air quality prediction using machine learning algorithms has been published in IEEE Xplore - International Conference on Recent Trends in Advance Computing (ICRTAC 2023).*
 
 Link to the paper on IEEE Xplore: https://ieeexplore.ieee.org/document/10480846
 
